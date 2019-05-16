@@ -27,7 +27,7 @@ modman clone https://github.com/GordonLesti/Lesti_Fpc.git
 ```json
 {
     "require": {
-        "hgati/lesti_fpc": "*"
+        "hgati/lesti_fpc": "1.4.9"
     }
 }
 ```
